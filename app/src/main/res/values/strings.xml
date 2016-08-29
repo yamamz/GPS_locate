@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Geo Location</string>
+    <string name="action_settings">coordinates converter</string>
+    <string name="facebook_app_id">1672803652972029</string>
+    <string name="space">"  "</string>
+    <string name="characterToReplace">[-+^:,]</string>
+    <string name="DegreesMinutesSeconds">DMS FORMAT</string>
+    <string name="UTM">UTM FORMAT</string>
+    <string name="DecimalFormat">DECIMAL FORMAL</string>
+    <string name="Elevation">ELEVATION</string>
+    <string name="Reverse_geo">REVERSE GEOCODING</string>
+    <string name="Accuracy">ACCURACY</string>
+    <string name="title_activity_activity__geo__converter">Activity_Geo_Converter</string>
+</resources>
